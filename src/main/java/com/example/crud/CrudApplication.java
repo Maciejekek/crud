@@ -21,6 +21,7 @@ public class CrudApplication implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 
 		//add some people to DB
+
 //		Employee employee = new Employee();
 //		employee.setFirstName("firstname");
 //		employee.setLastName("lastname");
