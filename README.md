@@ -2,6 +2,8 @@
 
 jakiś tam sobie testowy crud przy użyciu Spring Boot
 
+kod znajduje się src -> main-> java/com/example/crud
+
 zawiera jedną entity o nazwie Employee
 
 polecam przy użyciu serwisu zewnętrznego Postman generować zapytania GET/POST/PUT/DELETE http do apki
