@@ -19,10 +19,12 @@ public class CrudApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
+
+		//add some people to DB
 //		Employee employee = new Employee();
-//		employee.setFirstName("Maciej");
-//		employee.setLastName("Muszynski");
-//		employee.setEmailId("maciekmuszynski99@gmail.com");
+//		employee.setFirstName("firstname");
+//		employee.setLastName("lastname");
+//		employee.setEmailId("email@gmail.com");
 //		employeeRepository.save(employee);
 //
 //		Employee employee1 = new Employee();
